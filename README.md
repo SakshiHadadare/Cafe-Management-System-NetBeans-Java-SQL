@@ -1,5 +1,5 @@
 # Cafe Management System
-A comprehensive Cafe Management System built using NetBeans, Java, and SQL. This project aims to streamline cafe operations by providing an easy-to-use interface for managing orders, inventory, and customer information.
+A comprehensive Cafe Management System built using NetBeans, Java, and SQL. This project aims to streamline cafe operations by providing an easy-to-use interface for managing orders, inventory, and customer information. It is a derivative work based on the YouTube video playlist titled "Cafe Management System in java (JFrame, Mysql Database, Netbeans IDE)" by BTech Days.
 
 ## Features
 ### User Authentication
@@ -59,10 +59,9 @@ Holds information about different product categories.
 - Product Table:
 Stores details about products available in the cafe, including name, price, and inventory levels.
 
-
-
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
+This project is a derivative work based on the YouTube video playlist titled "[Cafe Management System in java (JFrame, Mysql Database, Netbeans IDE)](https://youtube.com/playlist?list=PLdRq0mbeEBmxvnNAwr9va2aO09VBssx9c&si=KmRaMtLkFrtR4-GG)" by [BTech Days].  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ## Acknowledgements
 Thanks to all contributors and the open-source community for their invaluable support.
